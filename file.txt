@@ -1,3 +1,0 @@
-content of the file
-new content of the file version 2
-new content again file version 3
